@@ -1,5 +1,6 @@
 .vscode
 *.crate
+*.dll
 plugins/
 removed/
 updates/
