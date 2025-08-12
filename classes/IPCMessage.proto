@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+message ProgramOut {
+    string messageType = 1;
+    string payload = 2;
+}
+
+message PlacedBlock {
+    string playerUUID = 1;
+    int32 X = 2;
+    int32 Y = 3;
+    string blocktype = 4;
+}
+
+message InputCommand {
+    string command = 1;
+    string playerUUID = 2;
+    string payload = 3;
+}
+
+message MinecraftListenerEvent {
+
+}
+

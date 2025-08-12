@@ -1,0 +1,5 @@
+.vscode
+*.crate
+plugins/
+removed/
+updates/

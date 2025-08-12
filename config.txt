@@ -1,0 +1,3 @@
+
+AutoReload=false
+AllowRollbacks=false
