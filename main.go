@@ -1,8 +1,8 @@
 package main
 
 import (
-	"AutoReloader/config"
-	"AutoReloader/handlers"
+	"Bay/config"
+	"Bay/handlers"
 )
 
 //folder struct

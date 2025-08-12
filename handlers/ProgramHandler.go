@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"AutoReloader/classes"
-	"AutoReloader/config"
-	"AutoReloader/folders"
+	"Bay/classes"
+	"Bay/config"
+	"Bay/folders"
 	"fmt"
 	"os"
 	"sort"
